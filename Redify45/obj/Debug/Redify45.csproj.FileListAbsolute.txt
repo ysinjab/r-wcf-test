@@ -1,0 +1,10 @@
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\bin\Redify45.dll.config
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\bin\Redify45.dll
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\bin\Redify45.pdb
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\obj\Debug\Redify45.csprojResolveAssemblyReference.cache
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\obj\Debug\Redify45.dll
+c:\users\yasser\documents\visual studio 2013\Projects\Redify45\Redify45\obj\Debug\Redify45.pdb
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Redify45\bin\Core.dll
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Redify45\bin\Utils.dll
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Redify45\bin\Core.pdb
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Redify45\bin\Utils.pdb

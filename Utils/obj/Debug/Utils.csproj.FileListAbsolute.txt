@@ -1,0 +1,5 @@
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Utils\bin\Debug\Utils.dll
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Utils\bin\Debug\Utils.pdb
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Utils\obj\Debug\Utils.dll
+C:\Users\Yasser\Documents\Visual Studio 2013\Projects\Redify45\Utils\obj\Debug\Utils.pdb
